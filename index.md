@@ -1,14 +1,14 @@
 ---
-title: 환영합니다. **베리 해킹 레이블** 공식사이트 입니다.
+title: 환영합니다. 베리 해킹 레이블 공식사이트 입니다.
 feature_text: |
-  ## 베리 해킹 레이블**
+  ## 베리 해킹 레이블
   해킹(hacking)에 관심이 있으신가요? 그렇다면 '베리 해킹 레이블'에 들려서 정보를 확인하세요.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
 우리 조직은 화이트해커(정보보안 전문가)로 구성되어 있으며, 해킹(hacking) 컨텐츠를 만들어내는 생산활동을 목표로 합니다.
->해킹이란?</br>의도하지 않은 어떤 현상을 초래하는 행위를 일컫는다. 
+>해킹이란? 의도하지 않은 어떤 현상을 초래하는 행위를 일컫는다. 
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
